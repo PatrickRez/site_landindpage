@@ -117,7 +117,7 @@ form input,
 form textarea, 
 form button {
     display: block;
-    width: 320px;
+    width: 300px;
     margin-bottom: 8px;
     padding: 8px;
 }
