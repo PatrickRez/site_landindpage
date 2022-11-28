@@ -96,7 +96,7 @@ section p{
 }
 
 #fale-conosco .container{
-    display: flex;
+    display: block;
 }
 
 .social-link li{
@@ -110,13 +110,13 @@ section p{
 }
 
 #fale-conosco .container {
-    display: flex;
+    display: block;
 }
 
 form input,
 form textarea, 
 form button {
-    display: flex;
+    display: block;
     width: 300px;
     margin-bottom: 8px;
     padding: 8px;
